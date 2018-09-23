@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For AgruminoOTA Library
+# Author: Stefano Dessì
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AgruminoOTA	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+wifiConnect	KEYWORD2
+isConnected	KEYWORD2
+httpUpdate	KEYWORD2
+ideUpdate	KEYWORD2
+webServer	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
