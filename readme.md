@@ -94,4 +94,4 @@ In case of a mode that requires entering a loop to handle the update (Web Browse
 Values required by the sketch to connect to a network and handle the selected OTA mode need to be filled out before compiling.
 
 ## Documentation for further expansion
-[ArduinoOTA documentation (used to develop this library)](https://github.com/esp8266/Arduino/blob/master/doc/ota_updates/readme.rst)
+- [ArduinoOTA documentation (used to develop this library)](https://github.com/esp8266/Arduino/blob/master/doc/ota_updates/readme.rst)
